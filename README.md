@@ -1,6 +1,8 @@
 # backend_academy
 
-Selected homeworks for the [Tinkoff Backend Academy](https://fintech.tinkoff.ru/academy/backend/) course, first year (semesters 1 and 2). See also [second year](https://github.com/squareki/backend_academy_2) with SRE (Docker, Elastic / ELK, Grafana, Prometheus, LinkedIn Oncall).
+Selected homeworks for the [Tinkoff Backend Academy](https://fintech.tinkoff.ru/academy/backend/) course, first year (semesters 1 and 2).
+
+See also [second year](https://github.com/squareki/backend_academy_2) with SRE (Docker, Elastic / ELK, Grafana, Prometheus, LinkedIn Oncall).
 
 ## Functional Programming
 
